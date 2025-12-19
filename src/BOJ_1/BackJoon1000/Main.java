@@ -1,4 +1,4 @@
-package BackJoon1000;
+package BOJ_1.BackJoon1000;
 
 import java.util.Scanner;
 
